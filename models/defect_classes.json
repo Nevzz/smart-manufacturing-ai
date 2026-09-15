@@ -1,0 +1,19 @@
+{
+  "classes": [
+    "Cr",
+    "In",
+    "Pa",
+    "PS",
+    "RS",
+    "Sc"
+  ],
+  "names": {
+    "Cr": "Crazing",
+    "In": "Inclusion",
+    "Pa": "Patches",
+    "PS": "Pitted Surface",
+    "RS": "Rolled-in Scale",
+    "Sc": "Scratches"
+  },
+  "val_accuracy": 0.9944444444444445
+}

@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+.env
+mlflow.db
+mlartifacts/
+chroma_db/
+models/*.pkl
+models/*.keras
+data/raw/
+data/processed/

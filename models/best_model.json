@@ -1,0 +1,14 @@
+{
+  "model": "Random Forest",
+  "features": [
+    "air_temp_k",
+    "process_temp_k",
+    "rotational_speed_rpm",
+    "torque_nm",
+    "tool_wear_min",
+    "type_code",
+    "temp_diff_k",
+    "power_w",
+    "wear_torque"
+  ]
+}
